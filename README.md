@@ -29,12 +29,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop View](./screenshot.png)
+![Desktop View](./image.png)
+
 
 ### Links
 
 - Solution URL: [Solution link](https://github.com/Abdihakim20/stats-preview-card)
-- Live Site URL: [Live site link](https://abdihakim20.github.io/3-column-preview-card/)
+- Live Site URL: [Live site link](https://abdihakim20.github.io/stats-preview-card/)
 
 ### Built with
 
