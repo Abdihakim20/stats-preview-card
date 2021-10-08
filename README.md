@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution link](https://github.com/Abdihakim20/3-column-preview-card)
+- Solution URL: [Solution link](https://github.com/Abdihakim20/stats-preview-card)
 - Live Site URL: [Live site link](https://abdihakim20.github.io/3-column-preview-card/)
 
 ### Built with
